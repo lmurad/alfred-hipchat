@@ -447,7 +447,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>python hipchat.py --api_url "{query}"</string>
+				<string>python hipchat.py --cache_max_age "{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
